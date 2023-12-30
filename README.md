@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnasZwawi
-- 👀 I’m interested in web development, machine learning , micro services
-- 🌱 I’m currently learning c as a cs low level language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi
+I'm a Web developer.
+- 👀 I’m interested in web development ,business, startups ,investments 
+- 🌱 I’m currently learning React.js and System design
+- 📫 Reach me: anas.zouaoui.tn@gmail.com
 
 
