@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaszwawi&label=Profile%20views&color=0e75b6&style=flat" alt="anaszwawi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anaszwawi17" target="blank"><img src="https://img.shields.io/twitter/follow/anaszwawi17?logo=twitter&style=for-the-badge" alt="anaszwawi17" /></a> </p>
 
