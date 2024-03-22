@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Airbnb-clone**
 
-- 🌱 I’m currently learning **Nextjs and database design**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **anas.zouaoui.tn@gmail.com**
 
