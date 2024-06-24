@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/anaszwawi17" target="blank"><img src="https://img.shields.io/twitter/follow/anaszwawi17?logo=twitter&style=for-the-badge" alt="anaszwawi17" /></a> </p>
 
-- 🔭 I’m currently working on **Airbnb-clone**
+- 🔭 I’m currently working on **Ziplorer**
 
 - 🌱 I’m currently learning **Django**
 
